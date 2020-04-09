@@ -1,4 +1,4 @@
-## Simple_Chatty_Bot
+## **Simple ChattyBot**
 ***
   
 >> Building a Simple Chatbot from scratch using Java Language on Hyperskill
