@@ -5,7 +5,7 @@
 
 ### Installation
 * Install Intellij-IDEA
-* Download IntelliJ IDEA **Here**
+* Download IntelliJ IDEA [**Here**](https://www.jetbrains.com/idea/)
     >> Install EduTools Plugin for IntelliJ-IDEA.
 
 ### Built With
